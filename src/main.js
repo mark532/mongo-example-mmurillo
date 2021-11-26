@@ -7,6 +7,6 @@ import './assets/css/skeleton.css';
 
 const app = createApp(App);
 
-app.config.globalProperties.url = 'https://bookstore-mongo-mmurillo.netlify.app';
+app.config.globalProperties.url = 'https://laughing-kare-01762f.netlify.app';
 
 app.use(router).mount("#app");
